@@ -2,6 +2,7 @@
 Supplementary data and code for the following publication:
 
 Diallo, Jessica O. & Julian D. Olden. 2025. "Invasive species invoke a lifetime of trophic change in native stream fishes." 
+
 In review with _Ecosphere_
 
 
